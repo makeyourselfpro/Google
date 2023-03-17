@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav-fill{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0px 15px;
+}
+a{
+  text-decoration: none;
+  margin: 10px;
+}
+button,.btn-outline-info ,ul>a{
+  padding: 5px 20px;
+  border-radius: 5px;
+  margin: 10px;
+  color: black;
+}
+.text-primary{
+  font-size: 120px;
+  margin-bottom: 30px;
+}
+.input-group{
+  font-size: 30px;
+  width: 50%;
+  border-radius: 100px;
+  border: 2px solid black;
+}
+.modal-footer{
+  margin-top: 287.5px;
+  height: 114px;
+  margin-bottom: 0;
+  display: flex;
+  color: wheat;
+  background-color: gray;
+}
+.col-11{
+  display: flex;
+  justify-content: space-between;
+}
